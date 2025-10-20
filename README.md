@@ -36,3 +36,10 @@ The oversampling strategy proved to be the project's turning point, leading to a
 ---
 
 ## 📁 Project Structure
+EstimatingDamageFromForestFire/
+├── dataset_ForestFire/              
+│   ├── forestfires.csv               
+│   └── forestfires.names.txt         
+├── figure/                          
+├── Forest_Fire_Prediction_Model.ipynb 
+└── requirements.txt                  
